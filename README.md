@@ -1,4 +1,4 @@
-# AutomatedMultiZoneModelGeneration
+# Automated-MultiZone-Model-Generation
 This repository provides the scripts to automatically develop and generate multi-zone thermal model for residential buildings from measured data. The structure of the model is defined in an iterative way, using both forward and backward selection procedures. The repository also includes an example dataset of measured data from a residential building equiped with 9 individually controlled electric thermostats. The methodology creates a folder named 'Results' and further subfolders where it saves and plots the metrics and the progress of the procedure, as long as the final results.
 
 The code was tested using python 3.11.6, pandas 2.1.3, numpy 1.26.0, plotly 5.18.0, sklearn 1.3.2, scipy 1.11.3, and numba 0.58.1.
