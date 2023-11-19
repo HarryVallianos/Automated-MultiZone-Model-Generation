@@ -25,6 +25,6 @@ and our article:
 
 ## Publications using data form this repository
 
-1. Charalampos Vallianos, Matin Abtahi, Andreas Athienitis, Benoit Delcroix & Luis Rueda (2023) Online model-based predictive control with smart thermostats: application to an experimental house in Québec, Journal of Building Performance Simulation, DOI: 10.1080/19401493.2023.2243602 
+1. Charalampos Vallianos, Matin Abtahi, Andreas Athienitis, Benoit Delcroix & Luis Rueda (2023) Online model-based predictive control with smart thermostats: application to an experimental house in Québec, Journal of Building Performance Simulation, https://doi.org/10.1080/19401493.2023.2243602
 2. Charalampos Vallianos, Andreas Athienitis, Benoit Delcroix, Automatic generation of multi-zone RC models using smart thermostat data from homes, Energy and Buildings, Volume 277, 2022, 112571, ISSN 0378-7788, https://doi.org/10.1016/j.enbuild.2022.112571
 3. Vallianos, C. et al. (2023). Automated RC Model Generation for MPC Applications to Energy Flexibility Studies in Quebec Houses. In: Wang, L.L., et al. Proceedings of the 5th International Conference on Building Energy and Environment. COBEE 2022. Environmental Science and Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-19-9822-5_73
