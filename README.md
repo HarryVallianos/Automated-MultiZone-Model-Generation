@@ -1,4 +1,6 @@
-# Automated-MultiZone-Model-Generation
+# Automated-MultiZone-Model-Generation 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10156745.svg)](https://doi.org/10.5281/zenodo.10156745)
+
 This repository provides the scripts to automatically develop and generate multi-zone thermal model for residential buildings from measured data. The structure of the model is defined in an iterative way, using both forward and backward selection procedures. The repository also includes an example dataset of measured data from a residential building equiped with 9 individually controlled electric thermostats. The methodology creates a folder named 'Results' and further subfolders where it saves and plots the metrics and the progress of the procedure, as long as the final results.
 
 The code was tested using python 3.11.6, pandas 2.1.3, numpy 1.26.0, plotly 5.18.0, sklearn 1.3.2, scipy 1.11.3, and numba 0.58.1.
@@ -17,8 +19,8 @@ For more information please refer to our article:
 
 ## Citation
 
-If you use the data of this repository please reference the software on zenodo:
->TBD
+If you use any piece of the software of this repository please reference it on zenodo:
+> Vallianos, C. (2023). Automated Multi-Zone Model Generation (v1.0). Zenodo. https://doi.org/10.5281/zenodo.10156745
 
 and our article:
 >   Charalampos Vallianos, Andreas Athienitis, Benoit Delcroix, Automatic generation of multi-zone RC models using smart thermostat data from homes, Energy and Buildings, Volume 277, 2022, 112571, ISSN 0378-7788, https://doi.org/10.1016/j.enbuild.2022.112571.
